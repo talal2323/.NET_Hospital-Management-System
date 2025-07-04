@@ -249,7 +249,7 @@ A full-stack, role-based hospital management web application built with **ASP.NE
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hospital-management-api.git
+   git clone https://github.com/talal2323/.NET_Hospital-Management-System.git
    cd hospital-management-api
    ```
 
